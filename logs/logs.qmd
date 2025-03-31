@@ -1,0 +1,10 @@
+---
+title: "Logs"
+format: html
+listing:
+  contents:
+    - "../*/*.qmd"
+  type: table
+  fields: [title, date, country, authors]
+  filter-ui: [title, date, country, authors]
+---

@@ -63,7 +63,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \end{tabbing}
 
-
 ## Tue, 28 Dec (sunrise 06:41, sunset 18:03)
 
 \begin{tabbing}
@@ -101,30 +100,26 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \end{tabbing}
 
-
 # Approximate car travel
 
-Total will be around 160 km, which is the free allowance, plus or minus a few. 
+Total will be around 160 km, which is the free allowance, plus or minus a few.
 
-![Total car travel in 2 days](days12.png)  
-
+![Total car travel in 2 days](days12.png)
 
 # Extra attention for:
 
-1. Shorebirds!!! 
-1. Dark-fronted Babbler (End Point, anywhere)
-1. Tufted Duck (Manipal Lake)
-1. Nilgiri Wood-Pigeon (End Point, any forest area)
-1. Malabar Pied Hornbill (End Point, any forest area)
-1. Malabar Trogon (closer to Ghats, so near Karkala, farm)
-1. Common, Blyth's, Alpine Swifts (anywhere, sky)
-1. Nilgiri and Thick-billed vs. Pale-billed Flowerpecker
-1. Small, Ashy and Orange Minivets
-1. Coppersmith vs. Malabar Barbet
-1. Sri Lankan Frogmouth (End Point, Herga, farm, anywhere!)
-1. Owls (farm, night walk)
-
-
+1.  Shorebirds!!!
+2.  Dark-fronted Babbler (End Point, anywhere)
+3.  Tufted Duck (Manipal Lake)
+4.  Nilgiri Wood-Pigeon (End Point, any forest area)
+5.  Malabar Pied Hornbill (End Point, any forest area)
+6.  Malabar Trogon (closer to Ghats, so near Karkala, farm)
+7.  Common, Blyth's, Alpine Swifts (anywhere, sky)
+8.  Nilgiri and Thick-billed vs. Pale-billed Flowerpecker
+9.  Small, Ashy and Orange Minivets
+10. Coppersmith vs. Malabar Barbet
+11. Sri Lankan Frogmouth (End Point, Herga, farm, anywhere!)
+12. Owls (farm, night walk)
 
 # General study material
 
