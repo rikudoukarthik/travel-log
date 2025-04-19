@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+This is a Quarto website, built using RStudio and `knitr`, and hosted using Netlify.

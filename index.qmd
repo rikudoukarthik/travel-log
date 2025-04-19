@@ -2,10 +2,6 @@
 title: "Karthik's Trip Planning Notebook"
 ---
 
-This is a Quarto website.
+Over the years, I have ended up making planning and/or itinerary documents for my trips, but these have all been ad-hoc documents stored in idiosyncratic locations like my Obsidian notes or GDocs shared with trip members. I figured there is utility in bringing them all together into a single place, especially considering I often end up making budget breakdowns or even detailed notes on difficult bird species IDs (when travelling in novel regions).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+So, here is my notebook of travel logs. Eventually, I hope to come up with a name for it that's more clever and wieldy.

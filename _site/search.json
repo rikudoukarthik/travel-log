@@ -88,14 +88,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website, built using RStudio and knitr, and hosted using Netlify."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Karthik’s Trip Planning Notebook",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Over the years, I have ended up making planning and/or itinerary documents for my trips, but these have all been ad-hoc documents stored in idiosyncratic locations like my Obsidian notes or GDocs shared with trip members. I figured there is utility in bringing them all together into a single place, especially considering I often end up making budget breakdowns or even detailed notes on difficult bird species IDs (when travelling in novel regions).\nSo, here is my notebook of travel logs. Eventually, I hope to come up with a name for it that’s more clever and wieldy."
   },
   {
     "objectID": "logs/2023-01-north-karnataka.html",
