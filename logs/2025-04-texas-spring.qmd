@@ -1,0 +1,207 @@
+---
+title: "Texas Coast, Spring Break 2025"
+date: 2025-04-02
+country: United States
+authors: Karthik Thrikkadeeri, Vinay KL, Rounak Patra
+---
+
+Five-day trip during LSU Spring Break 2025. Here's [our trip report](https://ebird.org/tripreport/345364).
+
+# Links
+
+- [Map](https://maps.app.goo.gl/X1qZkgQBvuRvLaaz6) of locations of interest 
+- [Bar Charts](https://ebird.org/barchart?byr=1900&eyr=2025&bmo=3&emo=5&r=US-TX-061,US-TX-215): Spring migration in Cameron, Hidalgo counties 
+- [Great Texas Wildlife Trails](https://tpwd.texas.gov/huntwild/wildlife/wildlife-trails/) (driving routes)
+
+## Articles/reports
+
+- [Trip report](https://ebird.org/tripreport/336012?lifers=s): Michael Plauche, southern TX, 27 Feb-3 Mar 2025. **Many rarities**. 
+- [Trip report](https://ebird.org/tripreport/336544): The Birding Bros Spring Break 2025 
+- [Trip report](https://ebird.org/tripreport/330779): Lady Birders Weekend, Rio Grande Valley, Feb 2025 
+- [Trip report](https://www.eagle-eye.com/blog/texas-spring-migration-trip-report-apr-13-21-2024/): Houston area and Edwards Plateau, April 2024 
+- [Trip report](https://ebird.org/tripreport/328932): Honza & Jakub, FL+TX, 25 Feb-10 Mar 2025. 
+- [Tips for Spring Birding in Galveston](https://www.visitgalveston.com/blog/tips-for-twitchers-during-galveston-spring-bird-migration/)
+- [Birding in Texas](https://www.audubon.org/news/birding-texas)
+
+# Itinerary
+
+Start: 2 April 
+End: 6 April
+
+## Day 1 (2 April)
+
+- 09:00-10:00: Depart BTR to Hidalgo/Cameron (10 h drive w/o stops) 
+- Vehicle pick-up at 9:00, but by the time we leave BTR after everything, it may be ~10:00.  
+- Slingshot to Rio Grande. 10 h drive; with a lunch break and ~2 h of buffer, a total of ~12 h. 
+- Reach Lower TX coast by night (at motel around 22:00) 
+
+## Day 2 (3 April)
+
+- Spend entire day in the lower Rio Grande valley covering multiple parks and nation refuges multiple times. 
+
+## Day 3 (4 April)
+
+- Little bit more of the lower RGV depending on how the first day goes  
+- Head towards South Padre Island and cover the beach and others till late evening 
+- Perhaps our luck pans out a Short-eared Owl? 
+
+## Day 4 (5 April)
+
+- Start as early as possible! 
+- Towards Central TX coast (Galveston, 6 h drive) but this day will focus on birding along the way (Corpus Christi, Aransas Wildlife refuge etc.) 
+- Reach Galveston/Houston area by night 
+
+## Day 5 (6 April)
+
+- Morning to evening: Central TX coast (spots around Houston area) 
+- Move northeast as day progresses (High Island, Sabine Woods) 
+- Start towards BTR by dusk from Sabine (chance for nocturnals), to reach BTR by 22:00-23:00. 
+
+## Day 6 (7 April)
+
+- Start early towards Mississippi/Grand Isle and also, decide on how much time we wanna spend on birding v/s we could make use of the car and go grocery shopping etc before the end of the day. ?????
+
+# Notable birds
+
+1. Golden-cheeked Warbler ([map](https://ebird.org/map/gchwar?env.minX=-123.40613709338&env.minY=8.59237917765284&env.maxX=-64.1173283414918&env.maxY=39.6108729313288)): most recent record in 2024 ([list](https://ebird.org/view/checklist/S171506926)), generally scarce records in the area, but our timing seems appropriate 
+1. Aplomado Falcon ([map](https://ebird.org/map/aplfal?env.minX=-97.865631&env.minY=25.838075&env.maxX=-97.146913&env.maxY=26.540696)): Best chance in the USA is in south Texas, where we’re going. Distinctive falcon.
+1. Green Parakeet, Red-fronted Amazon, White-fronted Amazon: very southern tip near border ([hotspot](https://ebird.org/hotspot/L1210076/bird-list)) 
+1. Verdin: eastern range limit is Texas, but abundant and widespread where we’re going. 
+1. Altamira Oriole ([map](https://ebird.org/map/altori?env.minX=-105.43983141099&env.minY=10.425723597333&env.maxX=-78.4903728874042&env.maxY=44.4534141115132)): northern limit is Texas 
+1. Mexican Duck ([recent list](https://ebird.org/checklist/S216368577)): eastern limit is Texas, scarce records, but recent report 
+1. Scaled Quail, Red-billed Pigeon ([trip report](https://ebird.org/tripreport/336012?lifers=s)): northern/eastern limit is Texas, good chance near Roma, Rio Grande City
+1. Common Pauraque  
+1. Hook-billed Kite ([map](https://ebird.org/map/hobkit?env.minX=-109.033092547468&env.minY=-31.9137808623868&env.maxX=-34.4729239655476&env.maxY=28.7110058341559)): northern range limit is TX 
+1. Rose-throated Becard ([map](https://ebird.org/map/rotbec?env.minX=-111.728038399827&env.minY=6.76762999637114&env.maxX=-79.3886881715237&env.maxY=33.9885633748829)): northern limit, scare records, but good chance in southern tip 
+1. Brown Jay ([map](https://ebird.org/map/brnjay?env.minX=-100.948254990392&env.minY=7.67905077852812&env.maxX=-81.1853187397628&env.maxY=27.6878905536233)): couple different possibilities near the border, like Santa Margarita ranch area (restricted access). Definitely try the bird, not the location.
+1. Morelet's Seedeater ([map](https://ebird.org/map/whcsee1?env.minX=-109.931407831587&env.minY=6.76762999637114&env.maxX=-73.1004811826871&env.maxY=40.7883377088886)): border, like Brown Jay 
+1. Chihuahuan Raven: southern tip gives best chance 
+1. Grey Hawk ([map](https://ebird.org/map/gryhaw2?env.minX=-119.812875956902&env.minY=6.76762999637114&env.maxX=-79.3886881715237&env.maxY=41.9867319031071)): northern limit, good chance at southern tip 
+1. Colima Warbler: extremely unlikely with [one 2013 record](https://ebird.org/view/checklist/S32144565) in the region, but keep an eye out 
+1. Groove-billed Ani 
+1. Cattle Tyrant - South American species, hanging out in Corpus Christi for a year or so. [Stakeout Hotspot](https://ebird.org/hotspot/L27932697)
+1. Varied Bunting: South Padre Island nature center 
+
+# Tricky birds
+
+Cryptic and/or species groups with multiple possible species, for which it’s good to thoroughly brush up on ID.
+
+1. Mallard (bigger; white tail) vs Mottled (dark tail) vs Mexican Duck (white tail) 
+1. Ring-necked (dark back, white on bill base) vs Lesser (pale back) vs Greater (round head) Scaup 
+1. Egrets & herons (all morphs) 
+    - LBH & Reddish: both have bicolour bill and white morph, Reddish has pink bill base 
+1. Waders:
+    - Common - Spotted, Green - Solitary, 
+    - Greenshank - Greater YL, Willet; Marsh - Lesser YL 
+    - Stilt (Dunlin/Curlew but tall and yellow legs), Dunlin 
+    - Sanderling 
+    - Baird’s (beady eye, blank face) & White-rumped (more prominent supercilium) 
+    - Pectoral 
+    - Least (Temminck’s but brown), Western (Dunlin-like droopy, smaller & paler; black legs),  Semipalmated (short, blunt-tipped bill; black legs)
+    - Killdeer, Semipalmated (CRP), Piping 
+    - Snowy (Kentish), Wilson’s (kinda GSP but white collar), Mountain 
+1. Owls
+1. Nightjars/nighthawks
+1. Crows/ravens (Tamaulipas Crow, Chihuahuan Raven, Common Raven, American Crow [southern limit at Corpus Christi])
+1. Kingbirds (Tropical vs Couch’s [both brown tail, breast yellow] vs Western [black tail with white outer] vs Eastern; Cassin’s [black tail, white chin, grey breast])
+1. Flycatchers
+    - *Empidonax*: Acadian [fine notes], Alder [buzzy notes], Willow [buzzy up-down], Yellow-bellied [short-billed, short-tailed; sparrowish chirp]
+    - *Myiarchus*: Great Crested [brighter colours] vs Brown Crested [intermediate colours, straight rufous and black on undertail] vs Ash-throated [pale colours, rufous in undertail curved at tail tip]
+1. Western vs Eastern Meadowlark (Eastern white malar, Western yellow rises up till malar) vs Chihuahuan (broader white flanks, narrower yellow belly; white malar)
+1. Orioles (Orchard, Altamira, Hooded, Audubon)
+1. Grackles (BT dark eyes)
+1. Thrashers: Brown (shorter bill, pink base of lower bill; yellowish eye; buffer brown) vs Long-billed (longer, more decurved bill; pale base of lower bill; orangeish eye; duller brown)
+1. Tanagers (Summer, Scarlet, Western - uniform red-yellow to paler yellow with black on back and wings)
+1. Thrushes
+    - *Catharus*: Veery (uniform tawny, less spotted), Grey-cheeked (uniform grey), Swainson’s (buffy eyering & lores and sometimes head), Hermit (more tawny, rufous tail)
+    - Wood Thrush (diagnostic song; rufous head and back, well spotted)
+    - *Turdus*: AmRo
+1. Wrens:
+    - Rock (very pale with buffy wash)
+    - Canyon (colour scheme reminiscent of White-throated Dipper; bright white throat)
+    - NH (plainer, white throat & belly), AW (smaller, shorter tail, more prominent supercilium; uniform brown; think Eurasian)
+    - Sedge (song more prinia-like), Grass (like Sedge but paler; extra final notes in song), Marsh (unstreaked black crown; larger, prominent supercilium; song more reed-warbler-like)
+    - Carolina, Bewick’s (smaller, duller greyish, longer-tailed, tail white-spotted)
+    - Cactus (black spots and streaks)
+1. Sparrows (& towhees)
+    - *Spizella* (greyish face, unstreaked underside): 
+        - Chipping (grey face, rufous crown, white supercilium, eyestripe extending to bill base)
+        - Clay-coloured (most distinct median crown stripe, prominent facial patch)
+        - Brewer’s (least defined face, less obvious patterns)
+        - Field (pink bill, rufous crown & eye stripe)
+    - *Peucaea* (relatively duller than *Spizella*): 
+        - Bachman’s (like Field; larger bill & tail; no white eyering or 2 white wingbars, more patterned face)
+        - Cassin’s (more dull & drab; short bill)
+    - American Tree (recalls *Spizella* & *Melospiza* & Rufous-crowned; but yellow lower mandible, unstreaked underside)
+    - Black-throated (white stripes on head, black throat), Lark Sparrow (rufous & black on head; Veerappan moustache), Lark Bunting (finch-like; black with white wing patch)
+    - Fox (very dark brown/rufous, heavy streaks, yellow bill)
+    - *Zonotrichia* (long, dove-like): White-crowned (DEJu colours), Harris’s (streaks), White-throated (yellow supercilium, white throat, dark bill)
+    - *Ammospiza* (grey & yellow head): 
+        - (buffiest/yellowest) LeConte’s (Golden-headed Cisticola colour)
+        - Nelson’s (grey unstreaked nape, prominent auricular patch, white back stripes; buffier than Saltmarsh)
+        - Saltmarsh (grey unstreaked nape, prominent auricular patch, buffy back stripes, streaked flanks; darker than Nelson’s)
+        - Seaside (sootiest, yellow at base of supercilium)
+    - Plain streaked with yellow on head:
+        - Henslow’s (paler LeConte’s; larger, thicker bill; pale buff; strong lateral throat stripe)
+        - Baird’s (larger; head orange-buff not olive)
+        - Grasshopper (similar to *Ammospiza* & *Centronyx*; unstreaked breast & underside)
+        - Savannah (no buff breast or head, prominent postocular line; yellow in supercilium; short, notched tail)
+    - Vesper (PLAIN streaked: larger, stockier, obvious wingbars, plainer w/o yellow & rufous contra Savannah & Song)
+    - *Melospiza* (greyish head with rufous stripes & rufous wings; streaked underside contra *Spizella* & American Tree): 
+        - Song (no buff on breast but heavy streaks)
+        - Lincoln’s (breast streaks and buffy breast; yellow malar, duller rufous on head)
+        - Swamp (no breast streaks)
+    - Rufous-crowned (similar colour scheme as *Melospiza* [esp. Swamp] but mantle streaks much lighter, no underside streaks, eyestripe also rufous)
+    - Towhees: Green-tailed (striking head patterns contra Olive), Spotted (spotting on scapulars and wings; cle-cle-cle-tnnn), Eastern (tee-tauh-tnnn)
+    - Olive (plainer duller head)
+1. Warblers:
+    - Streaked, thrush-like:
+        - Ovenbird (olive, no white supercilium, rufous, striped rufous crown, white eyering)
+        - Louisiana (larger bill, brighter pink legs; broader & less yellow supercilium) & Northern Waterthrush
+    - Swainson’s (colour scheme like above, thrushes, but no streaks; rufous crown)
+    - Worm-eating
+    - *Vermivora* (triangular bill): Golden-winged, Blue-winged
+    - Black-and-white
+    - Prothonotary
+    - *Leiothlypis*:
+        - Nashville (grey-headed)
+        - Tennessee
+        - Virginia’s
+        - Colima
+        - Orange-crowned
+    - *Cardellina*:
+        - Canada (grey upper, black necklace with no grey on face/throat)
+        - Wilson’s (yellow with black crown)
+    - Grey/black-headed yellow warblers:
+        - Connecticut
+        - MacGillivray’s (semi-necklace)
+        - Mourning (black necklace)
+        - Common Yellowthroat vs Hooded (no grey)
+        - Kentucky (unique black head pattern like Wiper’s tattoo, no grey)
+    - *Setophaga*:
+        - American Redstart
+        - Golden-cheeked
+        - Hermit (like GC but black brown disconnected from yellow forehead)
+        - Townsend’s (intermediate between GC and BTG, has black ear patch)
+        - Black-throated Green
+        - Black-throated Grey
+        - Hooded
+        - Yellow (rufous flank streaks)
+        - Prairie (rufous mantle)
+        - Cape May
+        - Palm
+        - Pine
+        - Yellow-rumped
+        - Yellow-throated
+        - Chestnut-sided
+        - Bay-breasted
+        - Black-throated Blue
+        - Cerulean
+        - Blackpoll
+        - Grey-headed:
+            - Magnolia (black back, black streaks on flank, black eyemask, grey crown, big white wing window)
+            - Northern Parula (rufous on breast and shoulder, white eyelashes)
+            - Tropical Parula
+            - Kirtland’s
+    - *Myioborus* redstarts: Painted 
+1. Vireos

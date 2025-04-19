@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-04-02">
 
-<title>Logs – Travel Log</title>
+<title>Texas Coast, Spring Break 2025 – Travel Log</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,65 +67,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-date','listing-country',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-title","listing-date","listing-country"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -153,7 +94,7 @@ window.Quarto = {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../logs/logs.html" aria-current="page"> 
+    <a class="nav-link" href="../logs/logs.html"> 
 <span class="menu-text">Logs</span></a>
   </li>  
 </ul>
@@ -167,22 +108,54 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#links" id="toc-links" class="nav-link active" data-scroll-target="#links">Links</a>
+  <ul class="collapse">
+  <li><a href="#articlesreports" id="toc-articlesreports" class="nav-link" data-scroll-target="#articlesreports">Articles/reports</a></li>
+  </ul></li>
+  <li><a href="#itinerary" id="toc-itinerary" class="nav-link" data-scroll-target="#itinerary">Itinerary</a>
+  <ul class="collapse">
+  <li><a href="#day-1-2-april" id="toc-day-1-2-april" class="nav-link" data-scroll-target="#day-1-2-april">Day 1 (2 April)</a></li>
+  <li><a href="#day-2-3-april" id="toc-day-2-3-april" class="nav-link" data-scroll-target="#day-2-3-april">Day 2 (3 April)</a></li>
+  <li><a href="#day-3-4-april" id="toc-day-3-4-april" class="nav-link" data-scroll-target="#day-3-4-april">Day 3 (4 April)</a></li>
+  <li><a href="#day-4-5-april" id="toc-day-4-5-april" class="nav-link" data-scroll-target="#day-4-5-april">Day 4 (5 April)</a></li>
+  <li><a href="#day-5-6-april" id="toc-day-5-6-april" class="nav-link" data-scroll-target="#day-5-6-april">Day 5 (6 April)</a></li>
+  <li><a href="#day-6-7-april" id="toc-day-6-7-april" class="nav-link" data-scroll-target="#day-6-7-april">Day 6 (7 April)</a></li>
+  </ul></li>
+  <li><a href="#notable-birds" id="toc-notable-birds" class="nav-link" data-scroll-target="#notable-birds">Notable birds</a></li>
+  <li><a href="#tricky-birds" id="toc-tricky-birds" class="nav-link" data-scroll-target="#tricky-birds">Tricky birds</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Logs</h1>
+<h1 class="title">Texas Coast, Spring Break 2025</h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Karthik Thrikkadeeri, Vinay KL, Rounak Patra </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">April 2, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -192,87 +165,267 @@ window.Quarto = {
 </header>
 
 
+<p>Five-day trip during LSU Spring Break 2025. Here’s <a href="https://ebird.org/tripreport/345364">our trip report</a>.</p>
+<section id="links" class="level1">
+<h1>Links</h1>
+<ul>
+<li><a href="https://maps.app.goo.gl/X1qZkgQBvuRvLaaz6">Map</a> of locations of interest</li>
+<li><a href="https://ebird.org/barchart?byr=1900&amp;eyr=2025&amp;bmo=3&amp;emo=5&amp;r=US-TX-061,US-TX-215">Bar Charts</a>: Spring migration in Cameron, Hidalgo counties</li>
+<li><a href="https://tpwd.texas.gov/huntwild/wildlife/wildlife-trails/">Great Texas Wildlife Trails</a> (driving routes)</li>
+</ul>
+<section id="articlesreports" class="level2">
+<h2 class="anchored" data-anchor-id="articlesreports">Articles/reports</h2>
+<ul>
+<li><a href="https://ebird.org/tripreport/336012?lifers=s">Trip report</a>: Michael Plauche, southern TX, 27 Feb-3 Mar 2025. <strong>Many rarities</strong>.</li>
+<li><a href="https://ebird.org/tripreport/336544">Trip report</a>: The Birding Bros Spring Break 2025</li>
+<li><a href="https://ebird.org/tripreport/330779">Trip report</a>: Lady Birders Weekend, Rio Grande Valley, Feb 2025</li>
+<li><a href="https://www.eagle-eye.com/blog/texas-spring-migration-trip-report-apr-13-21-2024/">Trip report</a>: Houston area and Edwards Plateau, April 2024</li>
+<li><a href="https://ebird.org/tripreport/328932">Trip report</a>: Honza &amp; Jakub, FL+TX, 25 Feb-10 Mar 2025.</li>
+<li><a href="https://www.visitgalveston.com/blog/tips-for-twitchers-during-galveston-spring-bird-migration/">Tips for Spring Birding in Galveston</a></li>
+<li><a href="https://www.audubon.org/news/birding-texas">Birding in Texas</a></li>
+</ul>
+</section>
+</section>
+<section id="itinerary" class="level1">
+<h1>Itinerary</h1>
+<p>Start: 2 April End: 6 April</p>
+<section id="day-1-2-april" class="level2">
+<h2 class="anchored" data-anchor-id="day-1-2-april">Day 1 (2 April)</h2>
+<ul>
+<li>09:00-10:00: Depart BTR to Hidalgo/Cameron (10 h drive w/o stops)</li>
+<li>Vehicle pick-up at 9:00, but by the time we leave BTR after everything, it may be ~10:00.<br>
+</li>
+<li>Slingshot to Rio Grande. 10 h drive; with a lunch break and ~2 h of buffer, a total of ~12 h.</li>
+<li>Reach Lower TX coast by night (at motel around 22:00)</li>
+</ul>
+</section>
+<section id="day-2-3-april" class="level2">
+<h2 class="anchored" data-anchor-id="day-2-3-april">Day 2 (3 April)</h2>
+<ul>
+<li>Spend entire day in the lower Rio Grande valley covering multiple parks and nation refuges multiple times.</li>
+</ul>
+</section>
+<section id="day-3-4-april" class="level2">
+<h2 class="anchored" data-anchor-id="day-3-4-april">Day 3 (4 April)</h2>
+<ul>
+<li>Little bit more of the lower RGV depending on how the first day goes<br>
+</li>
+<li>Head towards South Padre Island and cover the beach and others till late evening</li>
+<li>Perhaps our luck pans out a Short-eared Owl?</li>
+</ul>
+</section>
+<section id="day-4-5-april" class="level2">
+<h2 class="anchored" data-anchor-id="day-4-5-april">Day 4 (5 April)</h2>
+<ul>
+<li>Start as early as possible!</li>
+<li>Towards Central TX coast (Galveston, 6 h drive) but this day will focus on birding along the way (Corpus Christi, Aransas Wildlife refuge etc.)</li>
+<li>Reach Galveston/Houston area by night</li>
+</ul>
+</section>
+<section id="day-5-6-april" class="level2">
+<h2 class="anchored" data-anchor-id="day-5-6-april">Day 5 (6 April)</h2>
+<ul>
+<li>Morning to evening: Central TX coast (spots around Houston area)</li>
+<li>Move northeast as day progresses (High Island, Sabine Woods)</li>
+<li>Start towards BTR by dusk from Sabine (chance for nocturnals), to reach BTR by 22:00-23:00.</li>
+</ul>
+</section>
+<section id="day-6-7-april" class="level2">
+<h2 class="anchored" data-anchor-id="day-6-7-april">Day 6 (7 April)</h2>
+<ul>
+<li>Start early towards Mississippi/Grand Isle and also, decide on how much time we wanna spend on birding v/s we could make use of the car and go grocery shopping etc before the end of the day. ?????</li>
+</ul>
+</section>
+</section>
+<section id="notable-birds" class="level1">
+<h1>Notable birds</h1>
+<ol type="1">
+<li>Golden-cheeked Warbler (<a href="https://ebird.org/map/gchwar?env.minX=-123.40613709338&amp;env.minY=8.59237917765284&amp;env.maxX=-64.1173283414918&amp;env.maxY=39.6108729313288">map</a>): most recent record in 2024 (<a href="https://ebird.org/view/checklist/S171506926">list</a>), generally scarce records in the area, but our timing seems appropriate</li>
+<li>Aplomado Falcon (<a href="https://ebird.org/map/aplfal?env.minX=-97.865631&amp;env.minY=25.838075&amp;env.maxX=-97.146913&amp;env.maxY=26.540696">map</a>): Best chance in the USA is in south Texas, where we’re going. Distinctive falcon.</li>
+<li>Green Parakeet, Red-fronted Amazon, White-fronted Amazon: very southern tip near border (<a href="https://ebird.org/hotspot/L1210076/bird-list">hotspot</a>)</li>
+<li>Verdin: eastern range limit is Texas, but abundant and widespread where we’re going.</li>
+<li>Altamira Oriole (<a href="https://ebird.org/map/altori?env.minX=-105.43983141099&amp;env.minY=10.425723597333&amp;env.maxX=-78.4903728874042&amp;env.maxY=44.4534141115132">map</a>): northern limit is Texas</li>
+<li>Mexican Duck (<a href="https://ebird.org/checklist/S216368577">recent list</a>): eastern limit is Texas, scarce records, but recent report</li>
+<li>Scaled Quail, Red-billed Pigeon (<a href="https://ebird.org/tripreport/336012?lifers=s">trip report</a>): northern/eastern limit is Texas, good chance near Roma, Rio Grande City</li>
+<li>Common Pauraque<br>
+</li>
+<li>Hook-billed Kite (<a href="https://ebird.org/map/hobkit?env.minX=-109.033092547468&amp;env.minY=-31.9137808623868&amp;env.maxX=-34.4729239655476&amp;env.maxY=28.7110058341559">map</a>): northern range limit is TX</li>
+<li>Rose-throated Becard (<a href="https://ebird.org/map/rotbec?env.minX=-111.728038399827&amp;env.minY=6.76762999637114&amp;env.maxX=-79.3886881715237&amp;env.maxY=33.9885633748829">map</a>): northern limit, scare records, but good chance in southern tip</li>
+<li>Brown Jay (<a href="https://ebird.org/map/brnjay?env.minX=-100.948254990392&amp;env.minY=7.67905077852812&amp;env.maxX=-81.1853187397628&amp;env.maxY=27.6878905536233">map</a>): couple different possibilities near the border, like Santa Margarita ranch area (restricted access). Definitely try the bird, not the location.</li>
+<li>Morelet’s Seedeater (<a href="https://ebird.org/map/whcsee1?env.minX=-109.931407831587&amp;env.minY=6.76762999637114&amp;env.maxX=-73.1004811826871&amp;env.maxY=40.7883377088886">map</a>): border, like Brown Jay</li>
+<li>Chihuahuan Raven: southern tip gives best chance</li>
+<li>Grey Hawk (<a href="https://ebird.org/map/gryhaw2?env.minX=-119.812875956902&amp;env.minY=6.76762999637114&amp;env.maxX=-79.3886881715237&amp;env.maxY=41.9867319031071">map</a>): northern limit, good chance at southern tip</li>
+<li>Colima Warbler: extremely unlikely with <a href="https://ebird.org/view/checklist/S32144565">one 2013 record</a> in the region, but keep an eye out</li>
+<li>Groove-billed Ani</li>
+<li>Cattle Tyrant - South American species, hanging out in Corpus Christi for a year or so. <a href="https://ebird.org/hotspot/L27932697">Stakeout Hotspot</a></li>
+<li>Varied Bunting: South Padre Island nature center</li>
+</ol>
+</section>
+<section id="tricky-birds" class="level1">
+<h1>Tricky birds</h1>
+<p>Cryptic and/or species groups with multiple possible species, for which it’s good to thoroughly brush up on ID.</p>
+<ol type="1">
+<li>Mallard (bigger; white tail) vs Mottled (dark tail) vs Mexican Duck (white tail)</li>
+<li>Ring-necked (dark back, white on bill base) vs Lesser (pale back) vs Greater (round head) Scaup</li>
+<li>Egrets &amp; herons (all morphs)
+<ul>
+<li>LBH &amp; Reddish: both have bicolour bill and white morph, Reddish has pink bill base</li>
+</ul></li>
+<li>Waders:
+<ul>
+<li>Common - Spotted, Green - Solitary,</li>
+<li>Greenshank - Greater YL, Willet; Marsh - Lesser YL</li>
+<li>Stilt (Dunlin/Curlew but tall and yellow legs), Dunlin</li>
+<li>Sanderling</li>
+<li>Baird’s (beady eye, blank face) &amp; White-rumped (more prominent supercilium)</li>
+<li>Pectoral</li>
+<li>Least (Temminck’s but brown), Western (Dunlin-like droopy, smaller &amp; paler; black legs), Semipalmated (short, blunt-tipped bill; black legs)</li>
+<li>Killdeer, Semipalmated (CRP), Piping</li>
+<li>Snowy (Kentish), Wilson’s (kinda GSP but white collar), Mountain</li>
+</ul></li>
+<li>Owls</li>
+<li>Nightjars/nighthawks</li>
+<li>Crows/ravens (Tamaulipas Crow, Chihuahuan Raven, Common Raven, American Crow [southern limit at Corpus Christi])</li>
+<li>Kingbirds (Tropical vs Couch’s [both brown tail, breast yellow] vs Western [black tail with white outer] vs Eastern; Cassin’s [black tail, white chin, grey breast])</li>
+<li>Flycatchers
+<ul>
+<li><em>Empidonax</em>: Acadian [fine notes], Alder [buzzy notes], Willow [buzzy up-down], Yellow-bellied [short-billed, short-tailed; sparrowish chirp]</li>
+<li><em>Myiarchus</em>: Great Crested [brighter colours] vs Brown Crested [intermediate colours, straight rufous and black on undertail] vs Ash-throated [pale colours, rufous in undertail curved at tail tip]</li>
+</ul></li>
+<li>Western vs Eastern Meadowlark (Eastern white malar, Western yellow rises up till malar) vs Chihuahuan (broader white flanks, narrower yellow belly; white malar)</li>
+<li>Orioles (Orchard, Altamira, Hooded, Audubon)</li>
+<li>Grackles (BT dark eyes)</li>
+<li>Thrashers: Brown (shorter bill, pink base of lower bill; yellowish eye; buffer brown) vs Long-billed (longer, more decurved bill; pale base of lower bill; orangeish eye; duller brown)</li>
+<li>Tanagers (Summer, Scarlet, Western - uniform red-yellow to paler yellow with black on back and wings)</li>
+<li>Thrushes
+<ul>
+<li><em>Catharus</em>: Veery (uniform tawny, less spotted), Grey-cheeked (uniform grey), Swainson’s (buffy eyering &amp; lores and sometimes head), Hermit (more tawny, rufous tail)</li>
+<li>Wood Thrush (diagnostic song; rufous head and back, well spotted)</li>
+<li><em>Turdus</em>: AmRo</li>
+</ul></li>
+<li>Wrens:
+<ul>
+<li>Rock (very pale with buffy wash)</li>
+<li>Canyon (colour scheme reminiscent of White-throated Dipper; bright white throat)</li>
+<li>NH (plainer, white throat &amp; belly), AW (smaller, shorter tail, more prominent supercilium; uniform brown; think Eurasian)</li>
+<li>Sedge (song more prinia-like), Grass (like Sedge but paler; extra final notes in song), Marsh (unstreaked black crown; larger, prominent supercilium; song more reed-warbler-like)</li>
+<li>Carolina, Bewick’s (smaller, duller greyish, longer-tailed, tail white-spotted)</li>
+<li>Cactus (black spots and streaks)</li>
+</ul></li>
+<li>Sparrows (&amp; towhees)
+<ul>
+<li><em>Spizella</em> (greyish face, unstreaked underside):
+<ul>
+<li>Chipping (grey face, rufous crown, white supercilium, eyestripe extending to bill base)</li>
+<li>Clay-coloured (most distinct median crown stripe, prominent facial patch)</li>
+<li>Brewer’s (least defined face, less obvious patterns)</li>
+<li>Field (pink bill, rufous crown &amp; eye stripe)</li>
+</ul></li>
+<li><em>Peucaea</em> (relatively duller than <em>Spizella</em>):
+<ul>
+<li>Bachman’s (like Field; larger bill &amp; tail; no white eyering or 2 white wingbars, more patterned face)</li>
+<li>Cassin’s (more dull &amp; drab; short bill)</li>
+</ul></li>
+<li>American Tree (recalls <em>Spizella</em> &amp; <em>Melospiza</em> &amp; Rufous-crowned; but yellow lower mandible, unstreaked underside)</li>
+<li>Black-throated (white stripes on head, black throat), Lark Sparrow (rufous &amp; black on head; Veerappan moustache), Lark Bunting (finch-like; black with white wing patch)</li>
+<li>Fox (very dark brown/rufous, heavy streaks, yellow bill)</li>
+<li><em>Zonotrichia</em> (long, dove-like): White-crowned (DEJu colours), Harris’s (streaks), White-throated (yellow supercilium, white throat, dark bill)</li>
+<li><em>Ammospiza</em> (grey &amp; yellow head):
+<ul>
+<li>(buffiest/yellowest) LeConte’s (Golden-headed Cisticola colour)</li>
+<li>Nelson’s (grey unstreaked nape, prominent auricular patch, white back stripes; buffier than Saltmarsh)</li>
+<li>Saltmarsh (grey unstreaked nape, prominent auricular patch, buffy back stripes, streaked flanks; darker than Nelson’s)</li>
+<li>Seaside (sootiest, yellow at base of supercilium)</li>
+</ul></li>
+<li>Plain streaked with yellow on head:
+<ul>
+<li>Henslow’s (paler LeConte’s; larger, thicker bill; pale buff; strong lateral throat stripe)</li>
+<li>Baird’s (larger; head orange-buff not olive)</li>
+<li>Grasshopper (similar to <em>Ammospiza</em> &amp; <em>Centronyx</em>; unstreaked breast &amp; underside)</li>
+<li>Savannah (no buff breast or head, prominent postocular line; yellow in supercilium; short, notched tail)</li>
+</ul></li>
+<li>Vesper (PLAIN streaked: larger, stockier, obvious wingbars, plainer w/o yellow &amp; rufous contra Savannah &amp; Song)</li>
+<li><em>Melospiza</em> (greyish head with rufous stripes &amp; rufous wings; streaked underside contra <em>Spizella</em> &amp; American Tree):
+<ul>
+<li>Song (no buff on breast but heavy streaks)</li>
+<li>Lincoln’s (breast streaks and buffy breast; yellow malar, duller rufous on head)</li>
+<li>Swamp (no breast streaks)</li>
+</ul></li>
+<li>Rufous-crowned (similar colour scheme as <em>Melospiza</em> [esp.&nbsp;Swamp] but mantle streaks much lighter, no underside streaks, eyestripe also rufous)</li>
+<li>Towhees: Green-tailed (striking head patterns contra Olive), Spotted (spotting on scapulars and wings; cle-cle-cle-tnnn), Eastern (tee-tauh-tnnn)</li>
+<li>Olive (plainer duller head)</li>
+</ul></li>
+<li>Warblers:
+<ul>
+<li>Streaked, thrush-like:
+<ul>
+<li>Ovenbird (olive, no white supercilium, rufous, striped rufous crown, white eyering)</li>
+<li>Louisiana (larger bill, brighter pink legs; broader &amp; less yellow supercilium) &amp; Northern Waterthrush</li>
+</ul></li>
+<li>Swainson’s (colour scheme like above, thrushes, but no streaks; rufous crown)</li>
+<li>Worm-eating</li>
+<li><em>Vermivora</em> (triangular bill): Golden-winged, Blue-winged</li>
+<li>Black-and-white</li>
+<li>Prothonotary</li>
+<li><em>Leiothlypis</em>:
+<ul>
+<li>Nashville (grey-headed)</li>
+<li>Tennessee</li>
+<li>Virginia’s</li>
+<li>Colima</li>
+<li>Orange-crowned</li>
+</ul></li>
+<li><em>Cardellina</em>:
+<ul>
+<li>Canada (grey upper, black necklace with no grey on face/throat)</li>
+<li>Wilson’s (yellow with black crown)</li>
+</ul></li>
+<li>Grey/black-headed yellow warblers:
+<ul>
+<li>Connecticut</li>
+<li>MacGillivray’s (semi-necklace)</li>
+<li>Mourning (black necklace)</li>
+<li>Common Yellowthroat vs Hooded (no grey)</li>
+<li>Kentucky (unique black head pattern like Wiper’s tattoo, no grey)</li>
+</ul></li>
+<li><em>Setophaga</em>:
+<ul>
+<li>American Redstart</li>
+<li>Golden-cheeked</li>
+<li>Hermit (like GC but black brown disconnected from yellow forehead)</li>
+<li>Townsend’s (intermediate between GC and BTG, has black ear patch)</li>
+<li>Black-throated Green</li>
+<li>Black-throated Grey</li>
+<li>Hooded</li>
+<li>Yellow (rufous flank streaks)</li>
+<li>Prairie (rufous mantle)</li>
+<li>Cape May</li>
+<li>Palm</li>
+<li>Pine</li>
+<li>Yellow-rumped</li>
+<li>Yellow-throated</li>
+<li>Chestnut-sided</li>
+<li>Bay-breasted</li>
+<li>Black-throated Blue</li>
+<li>Cerulean</li>
+<li>Blackpoll</li>
+<li>Grey-headed:
+<ul>
+<li>Magnolia (black back, black streaks on flank, black eyemask, grey crown, big white wing window)</li>
+<li>Northern Parula (rufous on breast and shoulder, white eyelashes)</li>
+<li>Tropical Parula</li>
+<li>Kirtland’s</li>
+</ul></li>
+</ul></li>
+<li><em>Myioborus</em> redstarts: Painted</li>
+</ul></li>
+<li>Vireos</li>
+</ol>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-title-sort" data-direction="asc">
-          Title
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-<th>
-country
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-listing-date-sort="1613109600000" data-listing-file-modified-sort="1743437471760" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="221" data-listing-title-sort="Birding Double Day Trip 12th-13th Feb 2021" data-listing-filename-sort="2021-02-honza-double-day.qmd">
-<td>
-<a href="../logs/2021-02-honza-double-day.html" class="title listing-title">Birding Double Day Trip 12th-13th Feb 2021</a>
-</td>
-<td>
-<span class="listing-date">Feb 12, 2021</span>
-</td>
-<td>
-<span class="listing-country">Czechia</span>
-</td>
-</tr>
-<tr data-index="1" data-listing-date-sort="1640584800000" data-listing-file-modified-sort="1743439186070" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="452" data-listing-title-sort="Manipal December 2021---2-day birding blitz" data-listing-filename-sort="2021-12-manipal.qmd">
-<td>
-<a href="../logs/manipal/2021-12-manipal.html" class="title listing-title">Manipal December 2021—2-day birding blitz</a>
-</td>
-<td>
-<span class="listing-date">Dec 27, 2021</span>
-</td>
-<td>
-<span class="listing-country">India</span>
-</td>
-</tr>
-<tr data-index="2" data-listing-date-sort="1743570000000" data-listing-file-modified-sort="1745074477402" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2140" data-listing-title-sort="Texas Coast, Spring Break 2025" data-listing-filename-sort="2025-04-texas-spring.qmd">
-<td>
-<a href="../logs/2025-04-texas-spring.html" class="title listing-title">Texas Coast, Spring Break 2025</a>
-</td>
-<td>
-<span class="listing-date">Apr 2, 2025</span>
-</td>
-<td>
-<span class="listing-country">United States</span>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

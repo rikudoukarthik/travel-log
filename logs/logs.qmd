@@ -5,6 +5,6 @@ listing:
   contents:
     - "../*/*.qmd"
   type: table
-  fields: [title, date, country, authors]
-  filter-ui: [title, date, country, authors]
+  fields: [title, date, country]
+  filter-ui: [title, date, country]
 ---
