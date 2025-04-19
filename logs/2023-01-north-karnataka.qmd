@@ -1,0 +1,106 @@
+---
+title: "North Karnataka road trip, Jan 2023"
+date: 2023-01-04
+country: India
+authors: Karthik Thrikkadeeri, Praveen Bennur, Sahana M
+---
+
+Here's [our trip report](https://ebird.org/tripreport/94964).
+
+# Route plans
+
+- [Day 1](https://goo.gl/maps/xsbZVJQmSHyoMZpEA)
+- [Day 2](https://goo.gl/maps/yBjKAtriMrqTWSfk6)
+- [Day 3](https://goo.gl/maps/hbW427ejBh5ztboG9)
+- Day 4
+- [Day 5](https://goo.gl/maps/dkQT4fbNxPFZ9zW5A)
+- Day 6 (Benakkatti to Bengaluru)
+
+# Itinerary
+
+**Day 1 (2023-01-04), ~400km**
+
+1. 03:30---Start from CBL, Bangalore
+2. 06:00--08:00---Sri Seebi Narasimhaswami Temple (scrub forest past Tumkur) ~~OR Devarayana Durga~~
+3. 09:30--10:30---Aimangala Lake, before Chitradurga
+4. 11:00--12:30---Jogimatti Forest, Chitradurga ([eBird](https://ebird.org/hotspot/L4718996))
+5. 12:30--13:00---Lunch (check for WNT en route Kotturu, Jagaluru is Davanagere district)
+6. 15:00--15:45---Kotturu Kere, Kotturu ([eBird](https://ebird.org/hotspot/L17037578))
+7. 17:00--19:00---Ankasamudra Bird Sanctuary ([eBird](https://ebird.org/hotspot/L4874507?yr=all&m=&rank=hc))
+8. 20:00---Reach Hosapete
+
+**Day 2 (2023-01-05), ~270km**
+
+1. 05:00---Start from Hosapete
+2. 06:00--08:00---Hampi (perhaps Matanga Hill)
+3. 09:30--11:30---Tungabhadra Backwaters, Nakaralu Tanda ([eBird](https://ebird.org/hotspot/L13503617)) (Hagaribommanahalli?)
+4. 14:00--15:30---Kinal Dam, past Koppal
+5. 17:00--18:30---Nidasheshi Lake, Kushtagi ([eBird](https://ebird.org/hotspot/L10180077))
+6. 21:00---Reach Praveen’s home in Benakatti
+
+**Day 3 (2023-01-06), ~350km**
+
+1. 04:00--06:00---Start from Benakatti to Bijapur
+2. 06:00--07:00---Random spots, Bijapur (Bijapuri Mosque?)
+3. 07:30--09:00---Bhutnal Kere ([eBird](https://ebird.org/hotspot/L6244479?yr=all&m=&rank=mrec)) (Demoiselle might be around!)
+4. 09:30--11:00---Deserted Monuments ([eBird](https://ebird.org/hotspot/L3130935?yr=all&m=&rank=mrec))
+5. 12:00--13:00---[Sankh lake](https://www.google.com/maps/place/17%C2%B004'45.5%22N+75%C2%B030'37.5%22E/@17.0793041,75.5082193,17z/data=!3m1!4b1!4m6!3m5!1s0x0:0x879eaceeb940a345!7e2!8m2!3d17.0792986!4d75.5104077!5m1!1e4), MH 
+6. 13:30--14:30---[Bhivargi lake](https://www.google.com/maps/place/Bhivargi+lake+(talav)/@17.0896401,75.5766588,1388m/data=!3m1!1e3!4m5!3m4!1s0x3bc6f38e36433d83:0x66280df712628b1e!8m2!3d17.092301!4d75.580237!5m1!1e4), MH
+7. 14:30--15:15---Lunch
+8. 16:30--18:00---Savalsang grasslands ([eBird](https://ebird.org/hotspot/L15806996?yr=all&m=&rank=mrec))
+9. 21:00---Reach Benakatti
+
+**Day 4 (2023-01-07), ~150km**
+
+With Praveen Baddi
+1. Bagalkot
+2. Herkal Lake backwaters ([eBird](https://ebird.org/hotspot/L12996966))
+3. Chinkara Wildlife Sanctuary (make multiple point-based hotspots)
+
+**Day 5 (2023-01-08), ~280km**
+
+1. 03:30---Start from Benakatti
+2. 06:30--09:00---Naviluteertha Dam (Malaprabha River/Renukasagar Reservoir) ([eBird](https://ebird.org/hotspot/L10226079))
+3. 11:30--13:00---Badami (Agastya Kere and Caves)
+4. 13:00--13:30---Lunch
+5. 14:00--15:00---Pattadakkal
+6. 15:30--16:30---Aihole (no hotspots yet)
+7. 17:00--19:00---Kotikall (wetland and dry area, no hotspots; also two lakes near Guledagudda)
+8. 20:00---Reach Benakatti
+
+**Day 6 (2023-01-09), ~470km**
+
+1. 04:00---Start from Bagalkot
+2. 14:00---Reach Bangalore
+
+# Species needing attention
+
+- White-naped Tit: possible from Chitradurga to Hospet
+- Demoiselle Crane: possible really anywhere north of Kotturu exactly at this time, but let’s hope the strange weather this winter hasn’t been a problem for this.
+- Gulls (e.g., Black- vs Brown-headed)
+- Tern (Black-bellied!)
+- Harriers
+- Shrikes
+- Prinias
+- Larks
+- Wagtail
+- Wheatears
+
+# Fuel estimates
+
+(overestimation but w/o tolls)
+
+~1900kms = 130L = Rs. 13,000 ~ Rs. 4,400 per person
+
+**Actual expense:**
+
+- 1759 km = 118 L = Rs. 12,095 = Rs. 4,032 per person
+- Tolls: Rs. 1365 = Rs. 455 per person
+- Puncture repair: Rs. 500 = Rs. 166 per person
+
+# eBird updates
+
+- [ ] Merge https://ebird.org/india/hotspot/L8313100 with https://ebird.org/india/hotspot/L4718996
+- [ ] Merge https://ebird.org/hotspot/L13514482?yr=all&m=&rank=mrec with Halli Kere
+- [ ] Rename https://ebird.org/india/hotspot/L6612179 to “Tungabhadra Reservoir—Munirabad Bridge”, and https://ebird.org/india/hotspot/L10507935 to “Tungabhadra Reservoir—Gunda Tree Park”, https://ebird.org/india/hotspot/L15806996 to “Savalsang Hilly Grassland”, https://ebird.org/india/hotspot/L12996969 to “Alamatti Backwaters—Anagwadi”
+- [x] Confirm yellow wagtails with Ashwin then reshare lists: https://ebird.org/india/checklist/S125393167, https://ebird.org/checklist/S125578597, 
