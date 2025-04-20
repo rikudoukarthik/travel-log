@@ -100,6 +100,69 @@ Cryptic and/or species groups with multiple possible species, for which it’s g
     - Least (Temminck’s but brown), Western (Dunlin-like droopy, smaller & paler; black legs),  Semipalmated (short, blunt-tipped bill; black legs)
     - Killdeer, Semipalmated (CRP), Piping 
     - Snowy (Kentish), Wilson’s (kinda GSP but white collar), Mountain 
+1. (Migrating) *Buteo* Hawks:
+    - Red-tailed:
+        - Slight dihedral
+        - Thin dark trailing edge
+        - Bulging secondaries
+        - Thick dark patagials (leading edge till carpals)
+        - White wing window after carpals
+        - Sometimes belly band
+    - Broad-winged:
+        - No dihedral, wings flat
+        - Chunky & compact, smaller
+        - Relatively thick trailing edge
+        - No bulging secondaries but wings taper towards tip
+        - No patagials
+        - Thick dark tail band, followed by white band, then thinner dark ones closer to vent
+        - Appear thinner-winged than RTHa
+        - No distinct belly band (sometimes head and chest dark, this streaking pattern parallels *Accipiter* across adults and juveniles)
+    - Rough-legged:
+        - Breeds in Arctic, winters in USA till Texas
+        - Strong dihedral
+        - Dark carpal patches
+        - Wings appear longer and narrower, without secondary bulge
+        - No patagials
+        - Solid dark belly band (females/imm male, replaced with dark barring in adult males)
+        - Long tail white at base and (sometimes smudged) dark at tip (non-well-defined band)
+        - Thin trailing edge
+        - Feathered tarsi (only RLHa and FeHa have this in *Buteo*)
+        - Floppy wingflaps with wings raised high each flap
+    - Swainson's
+        - Unique wing shape (paper plane): long, narrow, pointed wings
+            - Pointed wings in all poses!
+        - Pronounced dihedral
+        - "black-in-back": dark flight feathers
+        - No patagials or belly band
+        - Wobbling flight
+        - Gliding birds have M shape (like Osprey)
+        - Two-toned upperside without much mottling on scapulars
+    - Ferruginous:
+        - Largest *Buteo* in North America
+        - Resident or wintering in most of USA
+        - General vibe is bright white
+        - Longer-winged than RTHa and appear stockier
+        - Slight bulge in secondaries, tapering towards tip
+        - Very faint dark trailing edge
+        - No patagials or belly band
+        - White/light flight feathers
+        - Two-toned upperside: rusty upperwing coverts, white tail base * wing windows
+        - Rufous legs 
+    - Zone-tailed:
+        - Northern range limit in souther USA in breeding
+        - Overall dark bird with silver on underwings---mimic Turkey Vultures!
+            - Flight feathers barred unlike TuVu
+            - Yellow feet & cere
+            - Feathered head
+        - Prominent white tail band
+        - Stiffer and quicker wingflaps than TuVu, more acrobatic
+    - Red-shouldered:
+        - Forest hawk! Appear *Accipiter*-like
+        - Wing tips more squared off than other *Buteo*
+        - White crescents near wingtips
+        - Red shoulders on upperside like Ferruginous
+        - Bold black and white banding on tail and flight feathers
+        - Slight trailing edge
 1. Owls
 1. Nightjars/nighthawks
 1. Crows/ravens (Tamaulipas Crow, Chihuahuan Raven, Common Raven, American Crow [southern limit at Corpus Christi])
